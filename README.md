@@ -209,7 +209,7 @@ const deliverables = {
 
 *"Highly recommend working with Adil if you are looking for a mobile developer. Easy to work with and really talented"*
 
-💰 **$3,360** | 84 hours | $40/hr
+💰 **$3,360** 
 
 </td>
 <td width="33%" valign="top">
@@ -221,7 +221,7 @@ const deliverables = {
 
 *"Adil was great to work with clear communication and quick responses throughout the project. Would be happy to collaborate again!"*
 
-💰 **$900** | 18 hours | $50/hr
+💰 **$900** 
 
 </td>
 <td width="33%" valign="top">
@@ -233,7 +233,7 @@ const deliverables = {
 
 *"Highly recommend working with Adil if you are looking for a mobile developer. Easy to work with and really talented"*
 
-💰 **$3,360** | 84 hours | $40/hr
+💰 **$3,360** 
 
 </td>
 </tr>
@@ -306,6 +306,6 @@ Before we begin, I offer a **free 15-minute consultation** to:
 
 *"Clean code, scalable architecture, and exceptional user experiences - delivered."*
 
-[![Made with ❤️ by Mobile App Developer](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/yourusername)
+[![Made with ❤️ by Mobile App Developer](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/techsavvysenior)
 
 </div>
