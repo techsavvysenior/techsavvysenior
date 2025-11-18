@@ -190,6 +190,65 @@ const deliverables = {
 
 ---
 
+## ⭐ Client Testimonials
+
+<div align="center">
+
+### What My Clients Say
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 VoIP Calling App
+**Senior React Native + iOS Developer**
+
+⭐⭐⭐⭐⭐ **5.0/5.0**
+
+*"Highly recommend working with Adil if you are looking for a mobile developer. Easy to work with and really talented"*
+
+💰 **$3,360** | 84 hours | $40/hr
+
+</td>
+<td width="33%" valign="top">
+
+### 💳 Stripe Integration
+**Base44 App Subscription Payment**
+
+⭐⭐⭐⭐⭐ **5.0/5.0**
+
+*"Adil was great to work with clear communication and quick responses throughout the project. Would be happy to collaborate again!"*
+
+💰 **$900** | 18 hours | $50/hr
+
+</td>
+<td width="33%" valign="top">
+
+### 📱 Mobile Development
+**React Native & iOS Expert**
+
+⭐⭐⭐⭐⭐ **5.0/5.0**
+
+*"Highly recommend working with Adil if you are looking for a mobile developer. Easy to work with and really talented"*
+
+💰 **$3,360** | 84 hours | $40/hr
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🏆 **Many More 5-Star Reviews from Satisfied Clients**
+
+[![View All Reviews on Upwork](https://img.shields.io/badge/View_All_Reviews-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a078b9f2a2be910a)
+
+</div>
+
+---
+
 ## 🚀 My Development Process
 
 ```mermaid
