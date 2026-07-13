@@ -1,311 +1,281 @@
-# 📱 Mobile App Developer | iOS & Android Specialist
-
 <div align="center">
-  
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.upwork.com/freelancers/~01a078b9f2a2be910a)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://www.upwork.com/freelancers/~01a078b9f2a2be910a)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.upwork.com/freelancers/~01a078b9f2a2be910a)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.upwork.com/freelancers/~01a078b9f2a2be910a)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://www.upwork.com/freelancers/~01a078b9f2a2be910a)
 
-### 💰 **$80/hr** | 🇺🇸 US-Based | 🚀 Full-Stack Mobile Solutions
+<h1>Adil Hussain</h1>
+<p><strong>Senior Mobile App Developer</strong> — React Native · Flutter · iOS · Android</p>
+<p><em>I turn ideas into five-star apps — fast, clean, and store-ready.</em></p>
 
-[![Hire Me on Upwork](https://img.shields.io/badge/💼_HIRE_ME_ON_UPWORK-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a078b9f2a2be910a)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Senior+Mobile+App+Developer;Top+Rated+Plus+-+100%25+Job+Success;11%2B+Years+-+5%2C000%2B+Hours+Delivered;React+Native+%7C+Flutter+%7C+Swift+%7C+Kotlin" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/%2480%2Fhr-6366F1?style=for-the-badge&labelColor=6366F1" alt="$80 per hour" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Top%20Rated%20Plus-6366F1?style=for-the-badge&labelColor=0F172A" alt="Top Rated Plus" />
+  <img src="https://img.shields.io/badge/Job%20Success-100%25-6366F1?style=for-the-badge&labelColor=0F172A" alt="Job Success 100%" />
+  <img src="https://img.shields.io/badge/Earned-%24200K%2B-6366F1?style=for-the-badge&labelColor=0F172A" alt="Earned $200K+" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Location-United%20States-22C55E?style=for-the-badge&labelColor=0F172A" alt="Location" />
+  <img src="https://img.shields.io/badge/Response%20Time-20--30%20Mins-22C55E?style=for-the-badge&labelColor=0F172A" alt="Response Time" />
+</p>
+<sub>🟢 Available now · Open to contract-to-hire</sub>
+
+<p>
+  <a href="https://www.upwork.com/freelancers/~01a078b9f2a2be910a"><img src="https://img.shields.io/badge/Hire%20me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="mailto:theadilhussain99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/adil-hussain-Mobiledev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=techsavvysenior&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-I'm a **senior mobile app developer** specializing in building high-performance, scalable mobile applications for startups and enterprises. From concept to App Store deployment, I deliver complete mobile solutions with clean architecture and seamless user experiences.
+Senior mobile app developer with 11+ years shipping React Native, Flutter, iOS, and Android apps — from enterprise engagements at Deloitte to fast-moving startups. I help founders and teams launch new apps, modernize existing ones, and ship features faster without breaking what already works.
 
-🎯 **What Sets Me Apart:**
-- End-to-end mobile app development (UI/UX → Deployment)
-- Cross-platform expertise (React Native & Flutter)
-- Production apps with millions of users
-- Clean, maintainable, and scalable code architecture
-- Fast iterations with clear communication
+If you're hiring because you need certainty, not just "hours," here's what you get:
 
----
+- A clear build plan — milestones, scope, timeline, risks — before we start
+- App Store-ready delivery: builds, signing, TestFlight, Play Console
+- Scalable code: typed React Native/Flutter patterns, modular architecture
+- Daily communication and clean, handoff-ready documentation
 
-## 🛠️ Tech Stack & Expertise
+<br/>
 
-### **Mobile Development**
-<div>
-  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## 🛠️ Tech Stack
 
-</div>
+**Mobile Development**
 
-### **Backend & Cloud**
-<div>
-  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-</div>
+**Backend & Cloud**
 
-### **AI & Integrations**
-<div>
-  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
-</div>
+**AI & Integrations**
 
-### **Development Tools**
-<div>
-  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
 
-</div>
+**Tools**
 
----
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+
+**QA & Monitoring**
+
+<img src="https://img.shields.io/badge/QA%20Leadership-6366F1?style=for-the-badge&labelColor=0F172A" alt="QA Leadership" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Zoho-C8202B?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho" />
+
+<br/>
 
 ## 🎯 Core Services
 
-### 📱 **Cross-Platform App Development**
-- ⚛️ React Native development for fast, scalable apps
-- 🎨 Flutter development with smooth UI and pixel-perfect animations
-- 🔄 iOS + Android with native integrations and optimal performance
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### ☁️ **Backend & Cloud Infrastructure**
-- 🔥 Firebase (Auth, Firestore, Functions, Storage, Analytics)
-- ⚡ Supabase for real-time PostgreSQL backends
-- 🌐 Node.js REST APIs with Express
-- 🔔 Real-time sync, offline mode, and push notifications
+### 📱 Cross-Platform Apps
+- React Native builds for fast, scalable apps
+- Flutter with pixel-perfect, smooth animations
+- Native iOS + Android integrations, tuned for performance
 
-### 🤖 **AI, Chat & Automation**
-- 🧠 OpenAI & ChatGPT integrations
-- 💬 AI-powered chat applications
-- 🔄 Smart automation flows and recommendations
-- 🎯 Base44 & Lovable integrations
+### ☁️ Backend & Cloud
+- Firebase — Auth, Firestore, Functions, Storage, Analytics
+- Supabase for real-time Postgres backends
+- Node.js REST APIs with Express
+- Real-time sync, offline mode, push notifications
 
-### 💳 **Payments & Authentication**
-- 💰 Stripe, Apple Pay, Google Pay implementation
-- 🔐 Secure OAuth and JWT authentication flows
-- 📅 Subscription management with webhooks
-- 🛡️ PCI-compliant payment processing
+</td>
+<td valign="top" width="50%">
 
-### 🎨 **UI/UX Implementation**
-- 🖼️ Figma-to-mobile app conversion
-- 📱 Responsive, clean, and accessible design
-- ✨ Smooth animations and micro-interactions
-- ♿ WCAG accessibility compliance
+### 🤖 AI, Chat & Automation
+- Claude Code and OpenAI/ChatGPT integrations
+- AI-powered chat applications and smart recommendations
+- Automation flows built with Base44 & Lovable
 
----
+### 💳 Payments & Auth
+- Stripe, Apple Pay, Google Pay
+- Secure OAuth and JWT authentication
+- Subscription management with webhooks, PCI-compliant
 
-## 🏆 Featured Mobile Apps Portfolio
+</td>
+</tr>
+</table>
 
-### 🚖 **Bolt – Request a Ride**
-`React Native` `Kotlin` `Real-time GPS` `Payment Integration`
-- Ride-hailing platform with real-time driver tracking
-- Secure payment processing and ride history
-- High-performance mapping and location services
+### 🎨 UI/UX Implementation
+Figma-to-mobile conversion · AI-assisted concepting (MidJourney) → SwiftUI implementation · responsive, accessible design · WCAG compliance
 
-### 👶 **Sitly – Babysitting App**
-`React Native` `Firebase` `Chat` `Booking System`
-- Connects parents with trusted babysitters
-- In-app messaging and scheduling
-- Profile verification and rating system
+### 🧪 QA Leadership & Monitoring
+Test strategy & automation (unit · integration · E2E) · release quality gates · Grafana monitoring dashboards · Zoho workflow integrations
 
-### 📊 **Deputy – Workforce Scheduling**
-`Firebase` `React Native` `Enterprise Scale`
-- Employee scheduling and time tracking
-- Shift management and notifications
-- Enterprise-grade security and compliance
+<br/>
 
-### 📺 **BritBox – British TV Streaming**
-`Flutter` `Video Streaming` `DRM` `Offline Mode`
-- Premium video streaming platform
-- Secure content delivery with DRM
-- Offline downloads and playback
+## 🏆 Recent Engagements
 
-### 💼 **SEEK Jobs**
-`React Native` `High-Scale Architecture` `Complex State Management`
-- Australia's leading job search platform
-- Advanced filtering and recommendation engine
-- Optimized for millions of active users
+Every engagement below is rated **5.0 ⭐** by the client — pulled straight from Upwork work history.
 
-### 📋 **Taskport – Organizer App**
-`Real-time Sync` `Push Notifications` `Offline First`
-- Task management with team collaboration
-- Real-time updates across devices
-- Smart reminders and productivity analytics
+| Project | Stack | Value |
+|---|---|---:|
+| React Native iOS & Android Build & Deploy — *Powder Watts* | React Native | $10,160 |
+| Features, Fixes & Store Deployment — *NIXR* | React Native | $9,400 |
+| Senior Android Developer, App Modernization — *ArabGPT* | Kotlin · Android | $7,265 |
+| Flutter Cross-Platform App — iOS & Android | Flutter · Dart | $4,860 |
+| Mobile App Developer — AI-Powered Styling App | React Native · AI Integration | $4,680 |
+| Undo/Redo Functionality *(repeat client)* | React Native · TypeScript | $1,690 |
 
-### 💪 **Forever Young Workout**
-`Flutter` `Video Streaming` `In-App Purchases`
-- Fitness video streaming platform
-- Workout tracking and progress analytics
-- Subscription-based monetization
+<details>
+<summary><b>+2 more, plus 38 other completed & in-progress engagements</b></summary>
+<br/>
 
-### 💬 **ChatWise – AI Social App**
-`OpenAI` `Firebase` `Real-time Chat` `AI Integration`
-- AI-powered social networking platform
-- Smart conversation suggestions
-- Real-time messaging with AI assistance
+| Project | Stack | Value |
+|---|---|---:|
+| Senior iOS Developer — Video Streaming App | Swift · SwiftUI · UIKit | $408 |
+| Full-Stack Mobile App — Front & Backend | React Native · Node.js | $500 |
 
----
+</details>
+
+<br/>
+
+## 🧭 Experience
+
+| Period | Role | Company |
+|---|---|---|
+| 2023 – Present | Senior Mobile App Developer *(leading a 9-engineer team)* | ScriptsBundle |
+| 2022 – 2023 | Senior React Native Developer *(led an 8-engineer team)* | Northwest Partners |
+| 2019 – 2022 | Senior React Native & Software Developer | Paradyme Management Inc. |
+| 2017 – 2019 | Mobile Application Developer | Deloitte |
+| 2015 – 2017 | Software Developer *(100+ apps delivered)* | Nolij Consulting |
+
+## 🎓 Education & Credentials
+
+- **B.S. Computer Science** — Clemson University (2010 – 2014)
+- **iOS & Swift: The Complete iOS App Development Bootcamp** — Udemy (2017)
+
+<sub>✅ Identity & phone verified on Upwork</sub>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jet.vercel.app/api?username=techsavvysenior&show_icons=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=CBD5E1&icon_color=6366F1&border_color=1E293B">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jet.vercel.app/api?username=techsavvysenior&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=6366F1&text_color=1E293B&icon_color=6366F1&border_color=E2E8F0">
+  <img width="60%" alt="GitHub stats" src="https://github-readme-stats-jet.vercel.app/api?username=techsavvysenior&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=6366F1&text_color=1E293B&icon_color=6366F1&border_color=E2E8F0">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=techsavvysenior&hide_border=true&background=0F172A&border=1E293B&stroke=1E293B&ring=6366F1&fire=6366F1&currStreakLabel=6366F1">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=techsavvysenior&hide_border=true&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=6366F1&fire=6366F1&currStreakLabel=6366F1">
+  <img width="80%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=techsavvysenior&hide_border=true&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=6366F1&fire=6366F1&currStreakLabel=6366F1">
+</picture>
+
+</div>
+
+<details>
+<summary><b>🐍 Contribution snake (optional bonus)</b></summary>
+<br/>
+
+Enable the included <code>.github/workflows/snake.yml</code> action (just push it to this repo) to generate an animated snake that eats through your contribution graph, then it'll render here automatically:
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+</details>
+
+<br/>
 
 ## 💼 What You Get
 
 ```typescript
 const deliverables = {
   development: [
-    "Full mobile app (frontend + backend)",
+    "Full mobile app — frontend + backend",
     "Clean, modular TypeScript architecture",
     "Optimized performance & smooth animations",
-    "Comprehensive documentation"
+    "Comprehensive documentation",
   ],
   communication: [
     "Daily progress updates",
     "Fast iterations & feedback loops",
     "Clear technical explanations",
-    "Proactive problem-solving"
+    "Proactive problem-solving",
   ],
   deployment: [
     "App Store submission & approval",
     "Google Play publishing",
     "CI/CD pipeline setup",
-    "Post-launch support"
-  ]
-};
+    "Post-launch support",
+  ],
+} as const;
 ```
 
----
+<br/>
 
-## ⭐ Client Testimonials
+## ⭐ What Clients Say
+
+> "Adil is an outstanding and thorough app developer. His communication skills and raw talent are unmatched. He will continue to be our top choice for app development and modernization work!"
+> — Senior Android Developer engagement, $7,265 · ⭐⭐⭐⭐⭐
+
+> "Adil is an exceptional iOS developer with strong expertise in Swift, SwiftUI, UIKit, and MVVM architecture. He quickly identified and resolved complex crash issues and handled API integrations flawlessly."
+> — Senior iOS Developer engagement · ⭐⭐⭐⭐⭐
+
+> "Adil has been a pleasure to work with. He is thoughtful, reliable, and consistently delivers high-quality work — he takes the time to understand the broader context of what he's building, not just the immediate task."
+> — Flutter Cross-Platform App engagement, $4,860 · ⭐⭐⭐⭐⭐
 
 <div align="center">
 
-### What My Clients Say
+<sub>Client endorsements: Clear Communicator (15) · Committed to Quality (15) · Collaborative (12) · Solution Oriented (12) · Reliable (8)</sub>
+
+<a href="https://www.upwork.com/freelancers/~01a078b9f2a2be910a"><img src="https://img.shields.io/badge/View%20all%20reviews-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="View all reviews on Upwork" /></a>
 
 </div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<br/>
 
-### 🎯 VoIP Calling App
-**Senior React Native + iOS Developer**
+## 🚀 Development Process
 
-⭐⭐⭐⭐⭐ **5.0/5.0**
+1. **Discovery & Planning** — understanding your vision and technical requirements
+2. **Architecture Design** — scalable, maintainable code structure
+3. **Iterative Development** — agile sprints with regular demos
+4. **Quality Assurance** — unit, integration, and E2E testing
+5. **Deployment** — App Store & Play Store publishing
+6. **Post-Launch Support** — monitoring, updates, and optimization
 
-*"Highly recommend working with Adil if you are looking for a mobile developer. Easy to work with and really talented"*
-
-💰 **$3,360** 
-
-</td>
-<td width="33%" valign="top">
-
-### 💳 Stripe Integration
-**Base44 App Subscription Payment**
-
-⭐⭐⭐⭐⭐ **5.0/5.0**
-
-*"Adil was great to work with clear communication and quick responses throughout the project. Would be happy to collaborate again!"*
-
-💰 **$900** 
-
-</td>
-<td width="33%" valign="top">
-
-### 📱 Mobile Development
-**React Native & iOS Expert**
-
-⭐⭐⭐⭐⭐ **5.0/5.0**
-
-*"Highly recommend working with Adil if you are looking for a mobile developer. Easy to work with and really talented"*
-
-💰 **$3,360** 
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🏆 **Many More 5-Star Reviews from Satisfied Clients**
-
-[![View All Reviews on Upwork](https://img.shields.io/badge/View_All_Reviews-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a078b9f2a2be910a)
-
-</div>
-
----
-
-## 🚀 My Development Process
-
-```mermaid
-graph LR
-    A[📋 Requirements] --> B[🎨 UI/UX Design]
-    B --> C[⚙️ Architecture]
-    C --> D[💻 Development]
-    D --> E[🧪 Testing]
-    E --> F[🚀 Deployment]
-    F --> G[📈 Monitoring]
-```
-
-1. **Discovery & Planning** - Understanding your vision and technical requirements
-2. **Architecture Design** - Scalable, maintainable code structure
-3. **Iterative Development** - Agile sprints with regular demos
-4. **Quality Assurance** - Comprehensive testing (unit, integration, E2E)
-5. **Deployment** - App Store & Play Store publishing
-6. **Post-Launch Support** - Monitoring, updates, and optimizations
-
----
+<br/>
 
 ## 🤝 Let's Build Something Amazing
 
-I'm always excited to work on innovative mobile app projects. Whether you're a startup with an MVP or an enterprise needing a robust mobile solution, I can help bring your vision to life.
+I'm always excited to work on innovative mobile app projects — whether you're a startup shipping an MVP or an enterprise that needs a robust mobile solution.
 
-### 📬 Get In Touch
+**Free 15-minute consultation, before we begin:**
 
-<div align="center">
-
-[![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me_on-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a078b9f2a2be910a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theadilhussain99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-hussain-Mobiledev)
-
-</div>
-
----
-
-### 💡 Quick Start Consultation
-
-Before we begin, I offer a **free 15-minute consultation** to:
 - ✅ Review your app requirements
 - ✅ Discuss technical approach and timeline
-- ✅ Provide initial architecture recommendations
-- ✅ Answer any questions about the development process
-
----
+- ✅ Get initial architecture recommendations
+- ✅ Ask anything about the development process
 
 <div align="center">
 
-### ⭐ If you find my work valuable, please star this repository!
+<a href="https://www.upwork.com/freelancers/~01a078b9f2a2be910a"><img src="https://img.shields.io/badge/Hire%20me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+<a href="mailto:theadilhussain99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/adil-hussain-Mobiledev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-**💰 Rate:** $80/hour | **📍 Location:** United States | **⚡ Response Time:** < 2 hours
+<br/><br/>
 
----
+⭐ **If you find my work valuable, consider starring this repository!**
 
-*"Clean code, scalable architecture, and exceptional user experiences - delivered."*
+<sub>💰 <strong>$80/hour</strong> · 📍 United States · ⚡ Responds in 20–30 minutes · 🏆 Top Rated Plus</sub>
 
-[![Made with ❤️ by Mobile App Developer](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/techsavvysenior)
+<sub>*Clean code, scalable architecture, and exceptional user experiences — delivered.*</sub>
 
 </div>
