@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-light.svg">
-  <img width="100%" alt="Adil Hussain — Senior Mobile App Developer · $80/hr · Top Rated Plus · 100% Job Success · 11+ Years Experience" src="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-light-v2.svg">
+  <img width="100%" alt="Adil Hussain — Senior Mobile App Developer · $80/hr · Top Rated Plus · 100% Job Success · 11+ Years Experience" src="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-dark-v2.svg">
 </picture>
 
 <p>
