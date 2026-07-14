@@ -1,26 +1,10 @@
 <div align="center">
 
-<h1>Adil Hussain</h1>
-<p><strong>Senior Mobile App Developer</strong> — React Native · Flutter · iOS · Android</p>
-<p><em>I turn ideas into five-star apps — fast, clean, and store-ready.</em></p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Senior+Mobile+App+Developer;Top+Rated+Plus+-+100%25+Job+Success;11%2B+Years+-+5%2C000%2B+Hours+Delivered;React+Native+%7C+Flutter+%7C+Swift+%7C+Kotlin" alt="Typing SVG" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/%2480%2Fhr-6366F1?style=for-the-badge&labelColor=6366F1" alt="$80 per hour" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Top%20Rated%20Plus-6366F1?style=for-the-badge&labelColor=0F172A" alt="Top Rated Plus" />
-  <img src="https://img.shields.io/badge/Job%20Success-100%25-6366F1?style=for-the-badge&labelColor=0F172A" alt="Job Success 100%" />
-  <img src="https://img.shields.io/badge/Earned-%24200K%2B-6366F1?style=for-the-badge&labelColor=0F172A" alt="Earned $200K+" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Location-United%20States-22C55E?style=for-the-badge&labelColor=0F172A" alt="Location" />
-  <img src="https://img.shields.io/badge/Response%20Time-20--30%20Mins-22C55E?style=for-the-badge&labelColor=0F172A" alt="Response Time" />
-</p>
-<sub>🟢 Available now · Open to contract-to-hire</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-light.svg">
+  <img width="100%" alt="Adil Hussain — Senior Mobile App Developer · $80/hr · Top Rated Plus · 100% Job Success · 11+ Years Experience" src="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-dark.svg">
+</picture>
 
 <p>
   <a href="https://www.upwork.com/freelancers/~01a078b9f2a2be910a"><img src="https://img.shields.io/badge/Hire%20me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
@@ -29,6 +13,8 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=techsavvysenior&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+<sub>📍 United States · Open to contract-to-hire</sub>
 
 </div>
 
