@@ -261,7 +261,7 @@ I'm always excited to work on innovative mobile app projects — whether you're 
 <a href="mailto:theadilhussain99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/adil-hussain-Mobiledev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<br/><br/>
+<br/>
 
 ⭐ **If you find my work valuable, consider starring this repository!**
 
