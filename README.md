@@ -104,12 +104,11 @@ Every engagement below is rated **5.0 ⭐** by the client — pulled straight fr
 
 | Project | Stack | Value |
 |---|---|---:|
+| React Native & Expo Mobile App Optimization Expert | React Native · Expo | $59,928 |
+| Study App Developer for iOS & Android | iOS · Android | $40,050 |
+| Lead QA Automation Engineer / SDET | Flutter · Mobile/Desktop · Backend · AI | $34,284 |
 | React Native iOS & Android Build & Deploy — *Powder Watts* | React Native | $10,160 |
-| Features, Fixes & Store Deployment — *NIXR* | React Native | $9,400 |
-| Senior Android Developer, App Modernization — *ArabGPT* | Kotlin · Android | $7,265 |
-| Flutter Cross-Platform App — iOS & Android | Flutter · Dart | $4,860 |
-| Mobile App Developer — AI-Powered Styling App | React Native · AI Integration | $4,680 |
-| Undo/Redo Functionality *(repeat client)* | React Native · TypeScript | $1,690 |
+| Home Health Assessment App — Web to iOS & Android | iOS · Android | $8,200 |
 
 <details>
 <summary><b>+2 more, plus 38 other completed & in-progress engagements</b></summary>
@@ -117,8 +116,8 @@ Every engagement below is rated **5.0 ⭐** by the client — pulled straight fr
 
 | Project | Stack | Value |
 |---|---|---:|
-| Senior iOS Developer — Video Streaming App | Swift · SwiftUI · UIKit | $408 |
-| Full-Stack Mobile App — Front & Backend | React Native · Node.js | $500 |
+| Features, Fixes & Store Deployment — *NIXR* | React Native | $9,400 |
+| Senior Android Developer, App Modernization — *ArabGPT* | Kotlin · Android | $7,265 |
 
 </details>
 
