@@ -245,7 +245,7 @@ I'm always excited to work on innovative mobile app projects — whether you're 
 - ✅ Get initial architecture recommendations
 - ✅ Ask anything about the development process
 
-  <br/><br/>
+  <br/>
 
 <a href="https://www.upwork.com/freelancers/~01a078b9f2a2be910a">
   <picture>
@@ -254,7 +254,7 @@ I'm always excited to work on innovative mobile app projects — whether you're 
     <img width="100%" alt="Have a project in mind? Hire me — replies in 20–30 minutes" src="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hire-me-dark.svg">
   </picture>
 </a>
-
+<br/><br/>
 <div align="center">
 
 <a href="https://www.upwork.com/freelancers/~01a078b9f2a2be910a"><img src="https://img.shields.io/badge/Hire%20me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
