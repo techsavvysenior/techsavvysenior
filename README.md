@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/adil-hussain-Mobiledev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<sub>📍 United States · Open to contract-to-hire</sub>
+<sub><h2>📍 United States · Open to contract-to-hire</h2></sub>
 
 </div>
 
