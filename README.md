@@ -161,10 +161,10 @@ Every engagement below is rated **5.0 ⭐** by the client — pulled straight fr
 </div>
 
 <details>
-<summary><b>🐍 Contribution snake (optional bonus)</b></summary>
+<summary><b>🐍 Contribution snake</b></summary>
 <br/>
 
-Enable the included <code>.github/workflows/snake.yml</code> action (just push it to this repo) to generate an animated snake that eats through your contribution graph, then it'll render here automatically:
+
 
 <div align="center">
 <picture>
