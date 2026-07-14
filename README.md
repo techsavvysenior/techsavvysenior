@@ -12,8 +12,6 @@
   <a href="https://www.linkedin.com/in/adil-hussain-Mobiledev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=techsavvysenior&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-
 <sub>📍 United States · Open to contract-to-hire</sub>
 
 </div>
