@@ -160,10 +160,7 @@ Every engagement below is rated **5.0 ⭐** by the client — pulled straight fr
 
 </div>
 
-
-<summary><b>🐍 Contribution snake</b></summary>
-<br/>
-
+## 🐍 Contribution snake
 
 
 <div align="center">
