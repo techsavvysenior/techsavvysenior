@@ -5,7 +5,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-light-v2.svg">
   <img width="100%" alt="Adil Hussain — Senior Mobile App Developer · $80/hr · Top Rated Plus · 100% Job Success · 11+ Years Experience" src="https://raw.githubusercontent.com/techsavvysenior/techsavvysenior/main/assets/hero-dark-v2.svg">
 </picture>
-
+<br/>
 <p>
   <a href="https://www.upwork.com/freelancers/~01a078b9f2a2be910a"><img src="https://img.shields.io/badge/Hire%20me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
   <a href="mailto:theadilhussain99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
