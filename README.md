@@ -4,9 +4,15 @@ Mobile app developer in Virginia, on US Eastern time. React Native, Flutter, Swi
 
 Most of my work is taking over existing iOS and Android apps and keeping them shipping, with fixes, new features and App Store and Play releases. I also add AI features to apps that already exist, most recently on FurCare AI.
 
-Client code lives in private repos under NDA, so this page is a summary rather than a code sample.
+Client code lives in private repos under NDA. The samples below show how I structure and test the same kind of work.
 
 [Hire me on Upwork](https://www.upwork.com/freelancers/~01a078b9f2a2be910a)
+
+## Code samples
+
+| Repo | What it shows |
+|---|---|
+| [flutter-auth-error-handling](https://github.com/techsavvysenior/flutter-auth-error-handling) | Flutter login flow with typed API error handling, safe retries and secure token storage. Dart 3 sealed classes, 33 tests, CI on every push. |
 
 ## What I work with
 
