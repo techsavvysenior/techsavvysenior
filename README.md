@@ -14,6 +14,7 @@ Client code lives in private repos under NDA. The samples below show how I struc
 |---|---|
 | [flutter-auth-error-handling](https://github.com/techsavvysenior/flutter-auth-error-handling) | Flutter login flow with typed API error handling, safe retries and secure token storage. Dart 3 sealed classes, 33 tests, CI on every push. |
 | [expo-supabase-connections](https://github.com/techsavvysenior/expo-supabase-connections) | React Native (Expo) and Supabase. A daily request limit enforced in Postgres with functions and row-level security. TypeScript, TanStack Query, 40 unit tests and 26 database tests on real Postgres, CI on every push. |
+| [expo-marketplace-payments](https://github.com/techsavvysenior/expo-marketplace-payments) | React Native (Expo) marketplace with customer, merchant and admin roles enforced in Postgres. Stripe (card, Apple Pay, Google Pay) and PayPal checkout confirmed by webhooks, App Store and Play subscriptions through RevenueCat, Meta App Events with Conversions API deduplication. 62 unit tests, 46 database tests, CI on every push. |
 
 ## What I work with
 
